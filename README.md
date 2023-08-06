@@ -1,1 +1,1 @@
-![client named finger](https://github.com/chaarlottte/finger-client/gitassets/kid.jpg)
+![client named finger](https://raw.githubusercontent.com/chaarlottte/finger-client/main/gitassets/kid.jpg)
