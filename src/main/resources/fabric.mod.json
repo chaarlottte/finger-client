@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "fingerclient",
+  "version": "${version}",
+  "name": "FingerClient",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/fingerclient/icon.png",
+  "environment": "client",
+  "entrypoints": {},
+  "mixins": [
+    "fingerclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
